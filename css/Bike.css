@@ -1,0 +1,127 @@
+*{
+padding:0;
+margin: 0;
+}
+body{
+   background:#000; 
+}
+
+a{
+    font-family: cursive;
+    font-size: 12px;
+    text-align: center;  
+    }
+div {
+    padding:0px;
+    margin: 0px 0px;   
+}
+.producto{
+    margin-top: 0px;
+    position: relative;
+    width: 100%;
+    height:;
+   
+}
+
+h3{
+    color: #fff;
+    font-family: Bernard MT Condensed;
+    font-size: 150px;
+    letter-spacing:15;
+    text-shadow: 1px 0px 50px #ccc;
+    text-align: center;
+    font-weight:bold;
+    margin: 300px 0px;
+    /*text-transform: uppercase;*/
+     position: absolute;
+     
+    left: 10%;
+}
+.levo{
+    margin: 0px;
+   border-radius: 50%;
+}
+.main{
+    margin:0px;
+}
+.main .articulos{
+    margin:0px 174px; 
+    background:#7C7674;
+    width: 1000px;
+    height:700px;
+    display: inline-block;
+}
+.main li{
+    margin: 5px 35px 12px 550px;
+    word-spacing:0px;
+    letter-spacing:1px;
+    color:#000;
+    text-align:justify;
+    font-family: Book Antiqua;
+    font-size: 15px; 
+    background: #ccc;
+   
+}
+h1{
+    margin: 50px 150px;
+    padding: 0px;
+    float: ;
+    color: #000;
+    text-shadow: 8px 5px 5px #fff;
+    text-align: ;
+    font-weight:bold;
+    font-size: 60px;
+    
+}
+h5{
+    margin: 50px 344px;
+    padding: 0px;
+    float: center;
+    color: #fff;
+    text-shadow: 10px 5px 50px #000;
+    text-align: center;
+    font-weight:bold;
+    font-size: 50px;
+}
+aside{ 
+    width: 100%;
+    height:40px;
+}
+aside p{
+    font-size: 18px;
+    padding: 9px 450px;
+    float: center;
+    color: #000;
+    font-weight:bold;
+}
+aside a{
+    color: #ccc;
+    text-decoration:none;
+    font-family:arial;
+    padding:10px 8px;
+    display: inline-block;
+    text-align:right;
+    float: ;
+}
+aside a:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+.luma{
+    margin: 5px 0px 10px 400px;
+    padding: 10px;
+    display: inline-block;
+}
+.luma:hover{
+    transition:all 0.1s ease-in-out 0.1s;
+    border-radius:50%;
+    background: #ccc;
+    border: 0px solid #ccc;
+}
+footer{
+    background: #7C7674;
+    color: aliceblue;
+    clear: both;
+    padding: 10px 10px;
+    
+}
